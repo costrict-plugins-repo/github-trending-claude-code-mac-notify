@@ -1,0 +1,20 @@
+{
+  "name": "maiconpavi-plugins",
+  "description": "Maicon Pavi's personal Claude Code plugin marketplace.",
+  "owner": {
+    "name": "Maicon Pavi",
+    "url": "https://github.com/maiconpavi"
+  },
+  "plugins": [
+    {
+      "name": "claude-code-mac-notify",
+      "source": "./",
+      "description": "macOS notifications + sounds for Claude Code events.",
+      "version": "1.1.0",
+      "license": "MIT",
+      "author": {
+        "name": "Maicon Pavi"
+      }
+    }
+  ]
+}
